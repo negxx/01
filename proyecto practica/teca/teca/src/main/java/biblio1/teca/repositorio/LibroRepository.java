@@ -50,3 +50,4 @@ public interface LibroRepository extends JpaRepository<Libro, Long> {
     List<Resena> findByLibroId(Long libroId);
 }
 }
+zxczxczxcasdsadsadasdasdasafdasf
